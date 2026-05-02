@@ -246,5 +246,3 @@ This project was built not as a simple CRUD app, but as a practical team product
 Vaibhav Singh
 =======
 # taskflow_v3
-Modern MERN-based project and task management platform built for team collaboration, member productivity tracking, and admin analytics.
->>>>>>> 93a425879f909838fcc3a288919a99afd5510c46

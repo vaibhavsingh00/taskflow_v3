@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 TaskFlow v2 — Premium Collaborative Team Task Manager SaaS
 
 TaskFlow v2 is a full-stack production-ready collaborative task management platform built to streamline how Admins, Managers, and Team Members plan projects, assign work, track progress, and monitor execution in real time.
@@ -243,3 +244,7 @@ This project was built not as a simple CRUD app, but as a practical team product
 👨‍💻 Developed By
 
 Vaibhav Singh
+=======
+# taskflow_v3
+Modern MERN-based project and task management platform built for team collaboration, member productivity tracking, and admin analytics.
+>>>>>>> 93a425879f909838fcc3a288919a99afd5510c46
